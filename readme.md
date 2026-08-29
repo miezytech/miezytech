@@ -54,4 +54,4 @@ We leverage modern technologies to build fast, secure, and scalable applications
 </div>
 
 <br/>
-<p align="center"><i>"Building the tools of tomorrow, today."</i></p>
+<p align="center"><i>"Make it eazy for the world with our solutions."</i></p>
