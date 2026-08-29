@@ -2,9 +2,9 @@
   <h1>Hi there! 👋 We are Miezy Technology</h1>
   <p><b>Innovating the future through scalable software and seamless user experiences.</b></p>
   
-  [![Website](https://img.shields.io/badge/Website-miezy.tech-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
+  [![Website](https://img.shields.io/badge/Website-miezytech.com-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miezy_Technology-blue?style=flat&logo=linkedin)](https://linkedin.com/company/yourcompany)
-  [![Email](https://img.shields.io/badge/Email-Contact_Us-red?style=flat&logo=gmail)](mailto:hello@miezytechnology.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Us-red?style=flat&logo=gmail)](mailto:ts@miezytech.com)
 </div>
 
 ---
@@ -32,6 +32,7 @@ We leverage modern technologies to build fast, secure, and scalable applications
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Backend & Databases**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
